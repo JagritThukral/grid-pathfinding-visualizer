@@ -1,7 +1,9 @@
 # Pathfinding Visualizer (A\*) — Grid
 
 A C++20 desktop application that visualizes the A\* shortest‑path algorithm on a 2D grid. Built with SFML 3 for rendering and TGUI for the user interface.
+
 This project was created as part of my **ADSA (Algorithms & Data Structures)** (course).
+
 This project focuses on:
 
 - incremental algorithms (non‑blocking UI)
