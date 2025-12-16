@@ -1,6 +1,8 @@
 /*
 * Program made by Jagrit Thukral
 */
+#include <iostream>
+
 #include "grid/Cell.hpp"
 #include "graph/Graph.hpp"
 #include "graph/AStarRunner.hpp"
