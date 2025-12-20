@@ -9,6 +9,11 @@ This project focuses on:
 - incremental algorithms (non‑blocking UI)
 - explicit data‑structure choices
 - clean separation between grid, graph, algorithm, and UI
+<div align="center">
+<img align="left" width="30%" alt="Screenshot 2025-12-15 152650" src="https://github.com/user-attachments/assets/0ab803ef-c438-47c7-95f1-218c20bc86b3" />
+<img align="center" width="30%" alt="Screenshot 2025-12-15 160449" src="https://github.com/user-attachments/assets/073b70e8-b317-4322-b3c4-91bc1274423c" />
+<img align="right" width="30%" alt="Screenshot 2025-12-15 160550" src="https://github.com/user-attachments/assets/7046b5e6-b6c0-4b86-9e86-bf407be70982" />
+</div>
 
 ## Features
 
